@@ -31,10 +31,10 @@ Parameter | Type | Data Type | Required
 | email | query | string | YES |
 | telefone | query | string | YES |
 
-## **PUT** /clientes/clienteId
+## **PUT** /clientes/{Id do cliente}
 
 *Faz a atualização de um cliente*
 
-## **DELET** /clientes/clienteId
+## **DELET** /clientes/{Id do cliente}
 
 *Remove um cliente*
